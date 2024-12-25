@@ -1,0 +1,24 @@
+
+/*CUERPO FONDO DE PANTALLA */
+body {
+    background: url('https://img.freepik.com/vector-premium/fondo-innovacion-medica-ciencia-salud_115579-832.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+/*LETRA DEL INICIO SESION COLOR BLANCO*/
+h1 {
+    font-weight: bold;
+    font-family: 'TuFuenteBonita', sans-serif; /* Reemplaza 'TuFuenteBonita' con el nombre de la fuente que desees utilizar */
+    color: white;
+}
+/*LETRAS DEL INICIO Y PASWOORD*/
+label.form-label {
+    font-weight: bold;
+    font-family: 'TuFuenteBonita', sans-serif; /* Reemplaza 'TuFuenteBonita' con el nombre de la fuente que desees utilizar */
+    color: white;
+}
+
+
+
+
+
+
